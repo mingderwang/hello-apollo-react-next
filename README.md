@@ -1,3 +1,6 @@
+# obsoleted
+* new stack refer to https://github.com/mingderwang/next-api-graphql-demo.git
+
 # frontpage-react-app port with next.js
 inspired by https://hello-apollo-react-next.now.sh
 
